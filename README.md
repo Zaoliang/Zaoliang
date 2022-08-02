@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zaoliang
+- 👋 Hi, I’m Zaoliang
 - 👀 I’m interested in film photography
 - 🌱 I’m currently learning web design of photography
 - 💞️ I’m looking to collaborate on gallery web design
